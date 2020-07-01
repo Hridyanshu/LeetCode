@@ -3,6 +3,6 @@ The commit messages are the names of the problems.
 
 Programming Language Used: JAVA
 
-> The problems can be found here:
+The problems can be found here:
 
-> 1. **[Arranging Coins](https://leetcode.com/problems/arranging-coins/)**
+1. **[Arranging Coins](https://leetcode.com/problems/arranging-coins/)**
