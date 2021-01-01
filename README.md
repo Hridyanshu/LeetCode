@@ -10,3 +10,4 @@ The commit messages are the names of the problems.**
 3. **[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)**
 4. **[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)**
 5. **[Hamming Distance](https://leetcode.com/problems/hamming-distance/)**
+6. **[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)**
